@@ -23,7 +23,6 @@ I build end-to-end ML systems — from data collection to production microservic
 - 📄 **Multimodal AI**: Building document processing pipelines with **Qwen2.5-VL**, **vLLM**, and **Arize Phoenix**  
 - 🏗️ **Full ML Lifecycle**: Data annotation → Training → Serving → Monitoring → Human-in-the-loop feedback  
 - 🌐 **Open Source**: Lead developer of [**VLMHyperBench**](https://github.com/VLMHyperBenchTeam/VLMHyperBench) — benchmark for VLMs on Russian documents  
-- 🎓 **Academic Roots**: 8+ years in scientific research (acoustics, signal processing, Scopus/WoS publications)
 - 🎓 **Academic Roots**: 8+ years in scientific research (acoustics, signal processing) — published in peer-reviewed journals ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=55948616700), [Web of Science](https://publons.com/researcher/2189569/anton-shiryaev/), [eLIBRARY](https://www.elibrary.ru/author_items.asp?authorid=896133))
 
 ---
