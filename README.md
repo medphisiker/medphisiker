@@ -17,7 +17,7 @@ I build end-to-end ML systems — from data collection to production microservic
 ## 🧠 What I Do
 
 - 🔍 **Computer Vision**: Object detection, segmentation, tracking (YOLO, SORT, Ultralytics) for robotics & industrial automation  
-- 📄 **Multimodal AI**: Building document processing pipelines with **Qwen2.5-VL**, **vLLM**, **LangChain**, and **Arize Phoenix**  
+- 📄 **Multimodal AI**: Building document processing pipelines with **Qwen2.5-VL**, **vLLM**, and **Arize Phoenix**  
 - 🏗️ **Full ML Lifecycle**: Data annotation → Training → Serving → Monitoring → Human-in-the-loop feedback  
 - 🌐 **Open Source**: Lead developer of [**VLMHyperBench**](https://github.com/VLMHyperBenchTeam/VLMHyperBench) — benchmark for VLMs on Russian documents  
 - 🎓 **Academic Roots**: 8+ years in scientific research (acoustics, signal processing, Scopus/WoS publications)
