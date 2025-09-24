@@ -28,6 +28,19 @@ I build end-to-end ML systems — from data collection to production microservic
 
 ---
 
+## 🛠️ Tech Stack
+
+| Category               | Tools & Frameworks |
+|------------------------|--------------------|
+| **Languages**          | Python |
+| **DL / ML**            | PyTorch, Lightning, Hugging Face, vLLM, Unsloth, LightAutoML, CatBoost |
+| **Multimodal**         | Qwen-VL, VLMEvalKit, LangChain, FAISS, Arize Phoenix |
+| **MLOps**              | MLflow, Weights & Biases, TensorBoard, Prefect, ONNX, TensorRT |
+| **DevOps**             | Docker (+NVIDIA), Git, uv, poetry, Docker Compose, Git Submodules |
+| **Data & CV**          | OpenCV, PIL, kornia, FiftyOne, CVAT, Label Studio, MinIO, RabbitMQ |
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔓 Open-Source Projects
@@ -79,19 +92,6 @@ I build end-to-end ML systems — from data collection to production microservic
 
 ---
 
-## 🛠️ Tech Stack
-
-| Category               | Tools & Frameworks |
-|------------------------|--------------------|
-| **Languages**          | Python |
-| **DL / ML**            | PyTorch, Lightning, Hugging Face, vLLM, Unsloth, LightAutoML, CatBoost |
-| **Multimodal**         | Qwen-VL, VLMEvalKit, LangChain, FAISS, Arize Phoenix |
-| **MLOps**              | MLflow, Weights & Biases, TensorBoard, Prefect, ONNX, TensorRT |
-| **DevOps**             | Docker (+NVIDIA), Git, uv, poetry, Docker Compose, Git Submodules |
-| **Data & CV**          | OpenCV, PIL, kornia, FiftyOne, CVAT, Label Studio, MinIO, RabbitMQ |
-
----
-
 ## 📚 Background & Achievements
 
 - **Master’s in AI**, ITMO University (AI Talent Hub) — courses in Multimodal Models, ML System Design, Model Compression  
@@ -116,4 +116,4 @@ I build end-to-end ML systems — from data collection to production microservic
 📄 **Full CV**: [Google Drive](https://drive.google.com/file/d/1CZZz9N7pDflbCK9NtlmrXsNthrB2O2fQ/view)
 
 > 💡 *"All the most interesting things happen at the intersection of fields."*  
-> — From acoustics to multimodal AI, I thrive where disciplines meet.
+> — From acoustics to multimodal AI.
