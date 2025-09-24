@@ -39,6 +39,10 @@ I build end-to-end ML systems — from data collection to production microservic
 
 ## 🚀 Featured Projects
 
+Only 3 projects are presented below, the rest can be found at the link bellow:
+
+🔍 [View all projects by category (CV / NLP / Multimodal) →](PROJECTS.md)
+
 ### 😃 [Audio-Visual Emotion Recognition](https://gitlab.com/group_19200719)  
 Multimodal system for real-time emotion detection in Zoom/Skype calls.  
 🥇 **1st place** in ODS MLOps course • [Demo video with live inference](https://ods.ai/tracks/ml-in-production-spring-23)
@@ -51,7 +55,7 @@ Open benchmark for evaluating Vision-Language Models on **Russian documents**.
 Production service for extracting structured data from Russian documents using multimodal LLMs.  
 🔁 Human-in-the-loop feedback • Built with **vLLM, MinIO, RabbitMQ, Arize Phoenix**
 
-🔍 [View all projects by category (CV / NLP / Multimodal) →](PROJECTS.md)
+
 
 ## 📚 Background & Achievements
 
