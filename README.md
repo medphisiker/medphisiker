@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Anton Shiryaev  
-**Deep Learning Engineer (CV, LLM & VLM)** | Master’s Student @ ITMO AI Talent Hub  
-📍 Vladivostok, Russia (GMT+10) | 🎓 ex-Researcher @ Russian Academy of Sciences  
+**Deep Learning Engineer (CV, LLM & VLM)**
+
+| Master’s Student @ ITMO AI Talent Hub  
+| 🎓 ex-Researcher @ Russian Academy of Sciences  
+📍 Vladivostok, Russia (GMT+10) 
 
 I build end-to-end ML systems — from data collection to production microservices — with a focus on **real-time computer vision** and **multimodal document understanding** using Vision-Language Models (VLMs).
 
