@@ -12,6 +12,9 @@ I build end-to-end ML systems — from data collection to production microservic
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=medphisiker&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medphisiker&layout=compact&theme=radical&langs_count=6" />
 </p>
+<p align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=VLMHyperBenchTeam&repo=VLMHyperBench&theme=radical" />
+</p>
 
 ---
 
