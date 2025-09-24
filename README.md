@@ -44,7 +44,7 @@ I build end-to-end ML systems — from data collection to production microservic
 
 Only 3 projects are presented below, the rest can be found at the link bellow:
 
-🔍 [View all projects by category (CV / NLP / Multimodal) →](PROJECTS.md)
+### 🔍 [View all projects by category (CV / NLP / Multimodal)](PROJECTS.md)
 
 ### 😃 [Audio-Visual Emotion Recognition](https://gitlab.com/group_19200719)  
 Multimodal system for real-time emotion detection in Zoom/Skype calls.  
