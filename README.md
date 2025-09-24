@@ -32,61 +32,26 @@ I build end-to-end ML systems — from data collection to production microservic
 | **DL / ML**            | PyTorch, Lightning, Hugging Face, vLLM, Unsloth, LightAutoML, CatBoost |
 | **Multimodal**         | Qwen-VL, VLMEvalKit, LangChain, FAISS, Arize Phoenix |
 | **MLOps**              | MLflow, Weights & Biases, TensorBoard, Prefect, ONNX, TensorRT |
-| **DevOps**             | Docker (+NVIDIA), Git, uv, poetry, Docker Compose, Git Submodules |
+| **DevOps**             | Docker (+NVIDIA), Git, uv, poetry, Docker Compose, Git SubmVodules |
 | **Data & CV**          | OpenCV, PIL, kornia, FiftyOne, CVAT, Label Studio, MinIO, RabbitMQ |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔓 Open-Source Projects
+### 😃 [Audio-Visual Emotion Recognition](https://gitlab.com/group_19200719)  
+Multimodal system for real-time emotion detection in Zoom/Skype calls.  
+🥇 **1st place** in ODS MLOps course • [Demo video with live inference](https://ods.ai/tracks/ml-in-production-spring-23)
 
-#### 📊 [VLMHyperBench](https://github.com/VLMHyperBenchTeam/VLMHyperBench)  
-> Open framework for evaluating Vision-Language Models on Russian documents.  
-> - Compare models across inference backends (vLLM, Transformers, etc.)  
-> - Evaluate prompts, custom datasets, and metrics  
-> - Winner of **Yandex Open Source Grant 2025**  
-> - Presented at **Data Fest 2025**
+### 📊 [VLMHyperBench](https://github.com/VLMHyperBenchTeam/VLMHyperBench)  
+Open benchmark for evaluating Vision-Language Models on **Russian documents**.  
+🏆 Winner of **Yandex Open Source Grant 2025** • Presented at **Data Fest 2025**
 
-#### 😃 [Audio-Visual Emotion Recognition](https://gitlab.com/group_19200719)  
-> Multimodal system for emotion detection in video calls (Zoom, Skype, etc.).  
-> - Combines **audio + video** using state-of-the-art fusion (Intermediate Transformer)  
-> - Trained on **RAVDESS** dataset  
-> - 🥇 **1st place** in ODS course *“MLOps & Production ML 2.0”*  
-> - [Leaderboard](https://ods.ai/tracks/ml-in-production-spring-23/leaderboard) | [Course](https://ods.ai/tracks/ml-in-production-spring-23)
+### 📑 **Document Processing with Qwen2.5-VL**  
+Production service for extracting structured data from Russian documents using multimodal LLMs.  
+🔁 Human-in-the-loop feedback • Built with **vLLM, MinIO, RabbitMQ, Arize Phoenix**
 
-#### 🚗 [Driver’s Assistant](https://github.com/medphisiker/drivers_helper)  
-> Real-time traffic sign detection for dashcams (18–52 FPS on CPU)  
-> - Optimized for edge devices  
-> - [Demo playlist](https://youtube.com/playlist?list=...)
-
-#### 💼 [CareerRank](https://github.com/medphisiker/maching_cv_and_vacancy)  
-> Semantic matching of resumes and job postings using FAISS + LLM embeddings  
-> - [Demo](https://youtu.be/ThIdllGH9ug?t=34)
-
----
-
-### 🔒 Work / Closed-Source Projects
-
-#### 📑 **Multimodal Document Processing Service**  
-> Production system for classifying and extracting structured data from Russian documents using **Qwen2.5-VL-7B**.  
-> - Built with **vLLM**, **RabbitMQ**, **MinIO**, **Arize Phoenix**  
-> - Microservice architecture (dev/prod environments)  
-> - Human-in-the-loop: user corrections → data aggregation → model retraining  
-> - Used internally to automate form-filling for employees
-
-#### 🐟 **Real-time Fish Sorting System**  
-> CV pipeline for fish-processing plant with delta robot control.  
-> - Segmentation + SORT tracking + length estimation  
-> - Runs on NVIDIA GPU (Ubuntu Server)  
-> - [Demo 1](https://youtu.be/WCiPduGcIO8?t=6) | [Demo 2 (with robot)](https://youtu.be/dGKP4fjohhM)
-
-#### 🌊 **Underwater Fauna Detection (AUV)**  
-> Deployed on **NVIDIA Jetson (ARM64)** for marine monitoring.  
-> - Presented at **Eastern Economic Forum 2022**  
-> - [Video demo](https://youtu.be/pVVztrvrCGw) | [Media](https://primamedia.ru/news/1355123/) | [1TV](https://www.1tv.ru/news/2022-09-05/437156)
-
----
+🔍 [View all projects by category (CV / NLP / Multimodal) →](PROJECTS.md)
 
 ## 📚 Background & Achievements
 
