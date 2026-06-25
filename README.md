@@ -35,7 +35,7 @@ I build end-to-end ML systems — from data collection to production microservic
 | **DL / ML**            | PyTorch, Lightning, Hugging Face, vLLM, Unsloth, LightAutoML, CatBoost |
 | **Multimodal**         | Qwen-VL, VLMEvalKit, LangChain, FAISS, Arize Phoenix |
 | **MLOps**              | MLflow, Weights & Biases, TensorBoard, Prefect, ONNX, TensorRT |
-| **DevOps**             | Docker (+NVIDIA), Git, uv, poetry, Docker Compose, Git SubmVodules |
+| **DevOps**             | Docker (+NVIDIA), Git, uv, poetry, Docker Compose, Git submodules |
 | **Data & CV**          | OpenCV, PIL, kornia, FiftyOne, CVAT, Label Studio, MinIO, RabbitMQ |
 
 ---
